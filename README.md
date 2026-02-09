@@ -15,7 +15,7 @@ Today, I’m focused on growing my career as a Data Analyst, combining technical
 
 Technical Skills
 
-Languages & Querying: SQL (joins, window functions, CTEs), Python (pandas, matplotlib), R
+Languages & Querying: SQL (joins, window functions, CTEs)
 Visualization & BI: Power BI, Tableau, Excel (PivotTables, Power Query, DAX)
 Project Management: PMP Certified, Lean Six Sigma Green Belt, Agile
 Tools & Platforms: Notion, Trello, Asana, GitHub, Slack, Teams, Zoom
