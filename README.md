@@ -66,7 +66,7 @@ I’m currently focused on data analytics and business intelligence opportunitie
 
 ##  Connect With Me
 
-- LinkedIn: _[Add LinkedIn link]_  
+- [LinkedIn:](https://www.linkedin.com/jobs/)  
 - Email: _[Add professional email]_  
 
 
