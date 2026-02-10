@@ -1,4 +1,7 @@
 # Noemi-Vargas
+### Data Analyst | SQL • Tableau • Business Intelligence
+
+
 Data Analyst who loves solving problems with SQL, Excel, and BI tools. Lifelong learner turning data into meaningful insights.
 
 Hi, I’m Noemi Vargas — Data Analyst | Problem Solver | Lifelong Learner
