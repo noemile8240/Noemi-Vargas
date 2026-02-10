@@ -23,6 +23,15 @@ End-to-end SQL analysis of ecommerce revenue, customer loyalty, regional perform
 
 ---
 
+## About Me
+
+Hi, I’m Noemi Vargas — Data Analyst, problem solver, and lifelong learner.
+
+I bring more than 20 years of experience at AT&T spanning Loss Prevention, Engineering, and Network Data Analysis, where I consistently used data to improve performance, streamline operations, and support decision-making. My work has included leading teams, building automated reporting systems, developing dashboards, and analyzing operational and network trends using SQL, Tableau, Power BI, and Excel.
+
+More recently, I’ve applied these same analytical skills within an e-commerce business, using sales analysis, experimentation, and performance tracking to guide strategy and growth. Today, I’m focused on advancing as a Data Analyst, combining technical analysis, business context, and clear communication to help organizations turn data into meaningful direction.
+
+---
 
 ##  Technical Skills
 
