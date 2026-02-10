@@ -67,7 +67,7 @@ I’m currently focused on data analytics and business intelligence opportunitie
 ##  Connect With Me
 
 - [LinkedIn:](https://www.linkedin.com/jobs/)  
-- Email: _[Add professional email]_  
+- Email: noemi.vargas8240@gmail.com
 
 
 
