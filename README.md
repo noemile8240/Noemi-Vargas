@@ -12,7 +12,7 @@ Skilled in SQL, Tableau, and analytics storytelling with a focus on revenue perf
 End-to-end SQL analysis of ecommerce revenue, customer loyalty, regional performance, and refund risk designed to deliver clear, decision-ready business insights.
 
 **Project Links**
--  SQL Analysis & Documentation://github.com/noemile8240/Pulse_Technology
+-  SQL Analysis & Documentation: https://github.com/noemile8240/Pulse_Technology
 
 
 **Key Impact Areas**
