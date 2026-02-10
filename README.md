@@ -88,9 +88,3 @@ I’m currently focused on data analytics and business intelligence opportunitie
 
 
 
-Technical Skills
-
-Languages & Querying: SQL (joins, window functions, CTEs)
-Visualization & BI: Power BI, Tableau, Excel (PivotTables, Power Query, DAX)
-
-Tools & Platforms: Notion, Trello, Asana, GitHub, Slack, Teams, Zoom
