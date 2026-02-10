@@ -1,3 +1,75 @@
+
+# Noemi Vargas
+### Data Analyst | SQL • Tableau • Business Intelligence
+
+Data Analyst with 20+ years of experience translating operational, customer, and performance data into actionable business insights.  
+Skilled in SQL, Tableau, and analytics storytelling with a focus on revenue performance, customer behavior, and decision-support reporting.
+
+---
+
+## Featured Project — Pulse Electronics Analytics
+
+End-to-end SQL analysis of ecommerce revenue, customer loyalty, regional performance, and refund risk designed to deliver clear, decision-ready business insights.
+
+**Project Links**
+-  SQL Analysis & Documentation: _[Add Pulse GitHub repo link here]_
+
+**Key Impact Areas**
+- Analyzed revenue performance across customers, regions, and order behavior  
+- Identified high-value repeat customers contributing disproportionate sales  
+- Evaluated refund-risk patterns associated with order status and activity  
+- Produced structured, executive-ready insights to support marketing, retention, and operational decisions  
+
+
+---
+
+
+##  Technical Skills
+
+**Data Analysis & Querying**
+- SQL (data cleaning, joins, aggregations, CTEs, window functions)
+- Data exploration, KPI development, and trend analysis
+
+**Visualization & Reporting**
+- Tableau dashboards, interactivity, and storytelling
+- Executive-level insight communication
+
+**Tools**
+- Excel (pivot tables, trend analysis, data preparation)
+- GitHub (documentation and version control)
+
+---
+
+## Professional Focus
+
+I enjoy using data to understand how businesses perform, how customers behave, and where meaningful improvements can be made.
+I’m currently focused on data analytics and business intelligence opportunities where thoughtful analysis and clear reporting can support better operational and customer decisions.
+
+---
+
+##  Connect With Me
+
+- LinkedIn: _[Add LinkedIn link]_  
+- Email: _[Add professional email]_  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Noemi-Vargas
 ### Data Analyst | SQL • Tableau • Business Intelligence
 
